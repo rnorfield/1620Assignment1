@@ -1,0 +1,71 @@
+#header {
+	text-align: center;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 100px;
+	margin: auto;
+	width: 30vw;
+	border-bottom: 1px;
+	border-color: #CCC;
+}
+#center {
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	text-align: center;
+	position: absolute;
+	width: 30vw;
+	height: 30vh;
+}
+.button {
+	position: absolute;
+	height: 25px;
+}
+#leftB {
+	top: 50%;
+	left: 0px;
+}
+#rightB {
+	top: 50%;
+	right: 0px;
+}
+#upB {
+	left: 47%;
+	top: -50px;
+}
+#downB {
+	bottom: -50px;
+	left: 45%;
+}
+#menu {
+	width: 75px;
+	right: -75px;
+	position: fixed;
+}
+
+#centerimg {
+	height: 100%;
+}
+.menuimg {
+	width: 100%;
+}
+#menubutton {
+	position: absolute;
+	left: -50px;
+	width: 50px;
+}
+#hat {
+	display: none;
+	position: absolute;
+}
+#shirt {
+	display: none;
+	position: absolute;
+}
+#bow {
+	display: none;
+	position: absolute;
+}
